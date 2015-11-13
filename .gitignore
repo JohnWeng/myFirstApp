@@ -6,7 +6,6 @@ _ios.built
 build/
 archive/
 formulator.jsb3
-index.html
 resources/.sass-cache
 # touch/
 
